@@ -1,5 +1,5 @@
-const buttonOpen = document.querySelector(".fa-bars");
-const buttonClose = document.querySelector(".fa-times");
+const buttonOpen = document.querySelector(".header-right .fa-bars");
+const buttonClose = document.querySelector(".close");
 const hamburgerMenu = document.querySelector(".hamburger-menu");
 
 
